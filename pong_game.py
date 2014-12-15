@@ -1,3 +1,4 @@
+# Author: Sravanthi Bitrakanti
 # Implementation of classic arcade game Pong
 
 import simplegui

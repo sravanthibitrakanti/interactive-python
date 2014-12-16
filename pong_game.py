@@ -1,4 +1,5 @@
 # Author: Sravanthi Bitrakanti
+# Date: December 15 2014
 # Implementation of classic arcade game Pong
 
 import simplegui
